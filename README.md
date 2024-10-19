@@ -4,7 +4,7 @@
 Overlay video frames over aruco marker.
 ## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/udham2511/Aruco-Augmentation/blob/main/screenshot.gif)
 ## Run Locally
 
 Clone the project
